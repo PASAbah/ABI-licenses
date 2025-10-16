@@ -1,0 +1,11 @@
+[
+  {
+    "uid": "fb6494a1-f867-4255-801b-3cb907dcb751",
+    "machine_id": "test_machine_id",
+    "iat": "2025-10-16T12:07:46Z",
+    "exp": "2025-11-15T12:07:46Z",
+    "active": true,
+    "note": "test",
+    "key": "eyJ1aWQiOiJmYjY0OTRhMS1mODY3LTQyNTUtODAxYi0zY2I5MDdkY2I3NTEiLCJtYWNoaW5lX2lkIjoidGVzdF9tYWNoaW5lX2lkIiwiaWF0IjoiMjAyNS0xMC0xNlQxMjowNzo0NloiLCJleHAiOiIyMDI1LTExLTE1VDEyOjA3OjQ2WiIsImFjdGl2ZSI6dHJ1ZX0.111b7eaf36388f862d52f8a8af864eefdc85fa10adfc71c3031a3536a0f71fac"
+  }
+]
