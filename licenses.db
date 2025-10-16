@@ -13,7 +13,7 @@
     "machine_id": "23d75cea1df2daed3f6684e006098aa34abbdf135bd03f20db651ae3f0de0deb",
     "iat": "2025-10-16T21:21:46Z",
     "exp": "2025-10-18T21:21:46Z",
-    "active": true,
+    "active": false,
     "note": "test 2 ",
     "key": "eyJ1aWQiOiJmMmU2NzViOC02NGEyLTRiM2MtOWY2Zi04ODdmZTkwMTQ5YWEiLCJtYWNoaW5lX2lkIjoiMjNkNzVjZWExZGYyZGFlZDNmNjY4NGUwMDYwOThhYTM0YWJiZGYxMzViZDAzZjIwZGI2NTFhZTNmMGRlMGRlYiIsImlhdCI6IjIwMjUtMTAtMTZUMjE6MjE6NDZaIiwiZXhwIjoiMjAyNS0xMC0xOFQyMToyMTo0NloiLCJhY3RpdmUiOnRydWV9.3ef73872ca6845ff05b043f3c9483c45e1ebc9995fdcacf4b93447a5d2519d91"
   }
