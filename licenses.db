@@ -4,8 +4,17 @@
     "machine_id": "23d75cea1df2daed3f6684e006098aa34abbdf135bd03f20db651ae3f0de0deb",
     "iat": "2025-10-19T09:59:06Z",
     "exp": "2025-10-26T09:59:06Z",
-    "active": true,
+    "active": false,
     "note": "PASA",
     "key": "eyJ1aWQiOiJkYmI1NGM1Ni00OWY0LTRlNGMtYjhmMC0zODM1Y2RlYmM1NGQiLCJtYWNoaW5lX2lkIjoiMjNkNzVjZWExZGYyZGFlZDNmNjY4NGUwMDYwOThhYTM0YWJiZGYxMzViZDAzZjIwZGI2NTFhZTNmMGRlMGRlYiIsImlhdCI6IjIwMjUtMTAtMTlUMDk6NTk6MDZaIiwiZXhwIjoiMjAyNS0xMC0yNlQwOTo1OTowNloiLCJhY3RpdmUiOnRydWV9.b09ab6b4507fd5c7a61c3dabca4005df3e85d8b5a9a1cb6cb0454a1b481c1e4c"
+  },
+  {
+    "uid": "8d5b2a4c-6520-45fb-82ac-cb4f417fc9d7",
+    "machine_id": "23d75cea1df2daed3f6684e006098aa34abbdf135bd03f20db651ae3f0de0deb",
+    "iat": "2025-10-19T17:19:58Z",
+    "exp": "2025-10-26T17:19:58Z",
+    "active": true,
+    "note": "MIG SELV ",
+    "key": "eyJ1aWQiOiI4ZDViMmE0Yy02NTIwLTQ1ZmItODJhYy1jYjRmNDE3ZmM5ZDciLCJtYWNoaW5lX2lkIjoiMjNkNzVjZWExZGYyZGFlZDNmNjY4NGUwMDYwOThhYTM0YWJiZGYxMzViZDAzZjIwZGI2NTFhZTNmMGRlMGRlYiIsImlhdCI6IjIwMjUtMTAtMTlUMTc6MTk6NThaIiwiZXhwIjoiMjAyNS0xMC0yNlQxNzoxOTo1OFoiLCJhY3RpdmUiOnRydWV9.3690b955002ba2fc62f44fb07d6fd0a64dd9f5e62ab67ac1f375dc2cd2b328b4"
   }
 ]
