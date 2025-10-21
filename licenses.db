@@ -16,5 +16,14 @@
     "active": true,
     "note": "MIG SELV ",
     "key": "eyJ1aWQiOiI4ZDViMmE0Yy02NTIwLTQ1ZmItODJhYy1jYjRmNDE3ZmM5ZDciLCJtYWNoaW5lX2lkIjoiMjNkNzVjZWExZGYyZGFlZDNmNjY4NGUwMDYwOThhYTM0YWJiZGYxMzViZDAzZjIwZGI2NTFhZTNmMGRlMGRlYiIsImlhdCI6IjIwMjUtMTAtMTlUMTc6MTk6NThaIiwiZXhwIjoiMjAyNS0xMC0yNlQxNzoxOTo1OFoiLCJhY3RpdmUiOnRydWV9.3690b955002ba2fc62f44fb07d6fd0a64dd9f5e62ab67ac1f375dc2cd2b328b4"
+  },
+  {
+    "uid": "fb7d2970-9b9d-496e-bfe6-84d49f6fb08e",
+    "machine_id": "416e3d80eafdb5d1db3cdacdd889a816fc9c80b27677d50fe1a897e0736198b3",
+    "iat": "2025-10-21T00:06:42Z",
+    "exp": "2025-10-28T00:06:42Z",
+    "active": true,
+    "note": "Cheeks",
+    "key": "eyJ1aWQiOiJmYjdkMjk3MC05YjlkLTQ5NmUtYmZlNi04NGQ0OWY2ZmIwOGUiLCJtYWNoaW5lX2lkIjoiNDE2ZTNkODBlYWZkYjVkMWRiM2NkYWNkZDg4OWE4MTZmYzljODBiMjc2NzdkNTBmZTFhODk3ZTA3MzYxOThiMyIsImlhdCI6IjIwMjUtMTAtMjFUMDA6MDY6NDJaIiwiZXhwIjoiMjAyNS0xMC0yOFQwMDowNjo0MloiLCJhY3RpdmUiOnRydWV9.e878b91ba887d5e3b628f602d9d7ed506ca95a9b7d3a29401aa5d0e4c27803a0"
   }
 ]
