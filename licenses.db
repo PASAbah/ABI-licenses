@@ -70,5 +70,14 @@
     "active": true,
     "note": "MIG SELV ",
     "key": "eyJ1aWQiOiI3NjQwZGUxNC04YmI0LTQzZDItYjc0YS0wZjdiMjAwMjYzMmQiLCJtYWNoaW5lX2lkIjoiMjNkNzVjZWExZGYyZGFlZDNmNjY4NGUwMDYwOThhYTM0YWJiZGYxMzViZDAzZjIwZGI2NTFhZTNmMGRlMGRlYiIsImlhdCI6IjIwMjUtMTAtMjZUMjI6MTM6MTZaIiwiZXhwIjoiMjAyNS0xMS0yNVQyMjoxMzoxNloiLCJhY3RpdmUiOnRydWV9.cc35bf4777f1466c7e1a267dc3ef6004e2e39bfe4598ad7aaf31e7e195be2723"
+  },
+  {
+    "uid": "3bd01c66-5d8c-4105-999d-0b07e3e50051",
+    "machine_id": "cf6939001403ae20c3c5c3d643acdd5a55f60e9b2cd58dca950390bc2e622b81",
+    "iat": "2025-10-26T22:35:01Z",
+    "exp": "2025-11-25T22:35:01Z",
+    "active": true,
+    "note": "johan_alucardi",
+    "key": "eyJ1aWQiOiIzYmQwMWM2Ni01ZDhjLTQxMDUtOTk5ZC0wYjA3ZTNlNTAwNTEiLCJtYWNoaW5lX2lkIjoiY2Y2OTM5MDAxNDAzYWUyMGMzYzVjM2Q2NDNhY2RkNWE1NWY2MGU5YjJjZDU4ZGNhOTUwMzkwYmMyZTYyMmI4MSIsImlhdCI6IjIwMjUtMTAtMjZUMjI6MzU6MDFaIiwiZXhwIjoiMjAyNS0xMS0yNVQyMjozNTowMVoiLCJhY3RpdmUiOnRydWV9.c7cf92e635c8fa8a14bf2ee0e94b9ed81407ba3fd08e38a1368aabefbb3c8fc7"
   }
 ]
