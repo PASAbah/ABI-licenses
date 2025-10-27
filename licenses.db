@@ -106,5 +106,14 @@
     "active": true,
     "note": "PAsarlaiiiii",
     "key": "eyJ1aWQiOiIxNDk5ODIzMS1hMGM3LTRjOGItOGMwYi1hNjUyYzNiMmJlZjgiLCJtYWNoaW5lX2lkIjoiMjNkNzVjZWExZGYyZGFlZDNmNjY4NGUwMDYwOThhYTM0YWJiZGYxMzViZDAzZjIwZGI2NTFhZTNmMGRlMGRlYiIsImlhdCI6IjIwMjUtMTAtMjZUMjM6MDk6MzZaIiwiZXhwIjoiMjAyNS0xMS0yNVQyMzowOTozNloiLCJhY3RpdmUiOnRydWV9.b185bd36c5c55a96ef96312866c12e2d0c04f070fec50aa066daa5d8fc8c8c46"
+  },
+  {
+    "uid": "ae2bfe08-8983-44b7-9949-15ee80192d78",
+    "machine_id": "2bb2a6eda62fd59e5318719ae658aaafb47679bd7bbc10f46b0fe8cd3d688a0f",
+    "iat": "2025-10-27T02:37:46Z",
+    "exp": "2025-11-03T02:37:46Z",
+    "active": true,
+    "note": "tarkovgoblindookie",
+    "key": "eyJ1aWQiOiJhZTJiZmUwOC04OTgzLTQ0YjctOTk0OS0xNWVlODAxOTJkNzgiLCJtYWNoaW5lX2lkIjoiMmJiMmE2ZWRhNjJmZDU5ZTUzMTg3MTlhZTY1OGFhYWZiNDc2NzliZDdiYmMxMGY0NmIwZmU4Y2QzZDY4OGEwZiIsImlhdCI6IjIwMjUtMTAtMjdUMDI6Mzc6NDZaIiwiZXhwIjoiMjAyNS0xMS0wM1QwMjozNzo0NloiLCJhY3RpdmUiOnRydWV9.7072c92be58fc68b2213cc3a3f9497b7170088c74fe3a03e7e49cd5bc4ca24c8"
   }
 ]
