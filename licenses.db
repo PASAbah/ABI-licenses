@@ -115,5 +115,14 @@
     "active": true,
     "note": "tarkovgoblindookie",
     "key": "eyJ1aWQiOiJhZTJiZmUwOC04OTgzLTQ0YjctOTk0OS0xNWVlODAxOTJkNzgiLCJtYWNoaW5lX2lkIjoiMmJiMmE2ZWRhNjJmZDU5ZTUzMTg3MTlhZTY1OGFhYWZiNDc2NzliZDdiYmMxMGY0NmIwZmU4Y2QzZDY4OGEwZiIsImlhdCI6IjIwMjUtMTAtMjdUMDI6Mzc6NDZaIiwiZXhwIjoiMjAyNS0xMS0wM1QwMjozNzo0NloiLCJhY3RpdmUiOnRydWV9.7072c92be58fc68b2213cc3a3f9497b7170088c74fe3a03e7e49cd5bc4ca24c8"
+  },
+  {
+    "uid": "cd45d4ea-eca3-426f-8151-ca3e75880dc9",
+    "machine_id": "43f7df07aa201aa5e1d949ca1c08c1c3578400e8e5e597b9248318c615be4ddd",
+    "iat": "2025-10-27T16:10:10Z",
+    "exp": "2025-11-03T16:10:10Z",
+    "active": true,
+    "note": ".reconsider (anthony tovar",
+    "key": "eyJ1aWQiOiJjZDQ1ZDRlYS1lY2EzLTQyNmYtODE1MS1jYTNlNzU4ODBkYzkiLCJtYWNoaW5lX2lkIjoiNDNmN2RmMDdhYTIwMWFhNWUxZDk0OWNhMWMwOGMxYzM1Nzg0MDBlOGU1ZTU5N2I5MjQ4MzE4YzYxNWJlNGRkZCIsImlhdCI6IjIwMjUtMTAtMjdUMTY6MTA6MTBaIiwiZXhwIjoiMjAyNS0xMS0wM1QxNjoxMDoxMFoiLCJhY3RpdmUiOnRydWV9.2ab39bddc032a2bd885008fa5d290658400a9b11c7931ed53ca4d050c6632043"
   }
 ]
