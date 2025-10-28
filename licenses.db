@@ -133,5 +133,14 @@
     "active": true,
     "note": "PABS_z ",
     "key": "eyJ1aWQiOiI3NjgyYjE1YS1hY2E3LTQ4OGQtYTMwOC00M2VjZWU5NTBhMjUiLCJtYWNoaW5lX2lkIjoiNWQxOWZhNzE0NGUxOTQ4ZjJiMmM4ZGM2ZTQ5Y2M0NjljZTAyMDdkOTZhYTRhZmEwZjkyZmE1OTRlNjhhNWI1ZiIsImlhdCI6IjIwMjUtMTAtMjhUMTU6MTk6MThaIiwiZXhwIjoiMjAyNS0xMS0wNFQxNToxOToxOFoiLCJhY3RpdmUiOnRydWV9.9b67d9dcc598063b7ebc80724ce2635b4ac4ca6f6759ce6df8e0ae365a640577"
+  },
+  {
+    "uid": "2f2f7bec-b3e0-410d-9cce-d78112dea4d2",
+    "machine_id": "faba4ad72851c19a00ca864d91b2e6e092aa0ec93d3cabcb8142ed28a6b9de4b",
+    "iat": "2025-10-28T18:15:50Z",
+    "exp": "2025-11-27T18:15:50Z",
+    "active": true,
+    "note": "H2o.water.mizu",
+    "key": "eyJ1aWQiOiIyZjJmN2JlYy1iM2UwLTQxMGQtOWNjZS1kNzgxMTJkZWE0ZDIiLCJtYWNoaW5lX2lkIjoiZmFiYTRhZDcyODUxYzE5YTAwY2E4NjRkOTFiMmU2ZTA5MmFhMGVjOTNkM2NhYmNiODE0MmVkMjhhNmI5ZGU0YiIsImlhdCI6IjIwMjUtMTAtMjhUMTg6MTU6NTBaIiwiZXhwIjoiMjAyNS0xMS0yN1QxODoxNTo1MFoiLCJhY3RpdmUiOnRydWV9.9c6487fe489ecd4a23af800f4f88a82ecd1152e7f9cafb0abceb98bf34f69c3e"
   }
 ]
