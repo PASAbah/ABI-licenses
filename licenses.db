@@ -205,5 +205,14 @@
     "active": true,
     "note": "cl0ck",
     "key": "eyJ1aWQiOiI4YzY0ZmFkZC0zODJhLTQzMmQtYmI2NC0zZWI3ZDcyZDc2ZDciLCJtYWNoaW5lX2lkIjoiODc2OWFhNDIwMjJjYjBmMjQwY2Y0ZThiNmJkNjAzN2RkY2NhODAyZDBjOWJmNThjMGU0MmQyZTU0Zjk5N2EzOCIsImlhdCI6IjIwMjUtMTEtMDNUMTk6MjE6MDhaIiwiZXhwIjoiMjAyNS0xMS0yOVQxOToyMTowOFoiLCJhY3RpdmUiOnRydWV9.f8d8773fdc60e74ea871fa00c9dbf78f2b56848cbe1e0244c682d2e2511d3b37"
+  },
+  {
+    "uid": "c92568f7-64d2-4815-9c2f-c2f3ceecd5a1",
+    "machine_id": "58c23cf2b4ff6103c4779d9c7c3cd31b86acd2de07a90bcb37a092cb9f1e13b1",
+    "iat": "2025-11-03T21:12:26Z",
+    "exp": "2025-12-03T21:12:26Z",
+    "active": true,
+    "note": "B Mizz",
+    "key": "eyJ1aWQiOiJjOTI1NjhmNy02NGQyLTQ4MTUtOWMyZi1jMmYzY2VlY2Q1YTEiLCJtYWNoaW5lX2lkIjoiNThjMjNjZjJiNGZmNjEwM2M0Nzc5ZDljN2MzY2QzMWI4NmFjZDJkZTA3YTkwYmNiMzdhMDkyY2I5ZjFlMTNiMSIsImlhdCI6IjIwMjUtMTEtMDNUMjE6MTI6MjZaIiwiZXhwIjoiMjAyNS0xMi0wM1QyMToxMjoyNloiLCJhY3RpdmUiOnRydWV9.e541cadf565f187a5847341d901b3867c5ffd03bff53450f4592c39b6a293cef"
   }
 ]
