@@ -178,5 +178,14 @@
     "active": true,
     "note": "Lewson",
     "key": "eyJ1aWQiOiI4MGQ0MWI0ZS1lMGRiLTQ1N2EtYmU5Ny02NjFhZGVhMzRlYjciLCJtYWNoaW5lX2lkIjoiZjI2ZjYwZjk1YjFkZjFmZjExNTBiM2JlMmJiNWQwYjc0M2E1NTdmYTZiYmQxODllOWQ1NTczM2I2MzQ0NzIxNiIsImlhdCI6IjIwMjUtMTEtMDdUMTM6NTI6NThaIiwiZXhwIjoiMjAyNS0xMS0xNFQxMzo1Mjo1OFoiLCJhY3RpdmUiOnRydWV9.6855e4d29cac4169a7101b3a7fb0939fbf071b8a01bb0f8b7655fd85e746ffd1"
+  },
+  {
+    "uid": "ad536ed6-4cdf-4ad5-8067-af00a9f40200",
+    "machine_id": "2bb2a6eda62fd59e5318719ae658aaafb47679bd7bbc10f46b0fe8cd3d688a0f",
+    "iat": "2025-11-09T16:06:17Z",
+    "exp": "2025-11-16T16:06:17Z",
+    "active": true,
+    "note": "Dookie (...)",
+    "key": "eyJ1aWQiOiJhZDUzNmVkNi00Y2RmLTRhZDUtODA2Ny1hZjAwYTlmNDAyMDAiLCJtYWNoaW5lX2lkIjoiMmJiMmE2ZWRhNjJmZDU5ZTUzMTg3MTlhZTY1OGFhYWZiNDc2NzliZDdiYmMxMGY0NmIwZmU4Y2QzZDY4OGEwZiIsImlhdCI6IjIwMjUtMTEtMDlUMTY6MDY6MTdaIiwiZXhwIjoiMjAyNS0xMS0xNlQxNjowNjoxN1oiLCJhY3RpdmUiOnRydWV9.73836023bec644d42c55bc3e2a8683e1fb83e660dde37c5cfff661c5bed83c1e"
   }
 ]
