@@ -205,5 +205,14 @@
     "active": true,
     "note": "4umb_",
     "key": "eyJ1aWQiOiJhYTc0N2NhOS0xNmJlLTRlOGItYjc3OC1jYjEzYzY5ZTU3OGQiLCJtYWNoaW5lX2lkIjoiODM0NDFlMzZlZjRiM2ViZGUzMjMwMmY4NDk4YzNjZjcwOWNhOTQ0YzUzMDk4MzYzZGMzOTAzMjg0NGU3YTkyZCIsImlhdCI6IjIwMjUtMTEtMTFUMDE6MTE6MjVaIiwiZXhwIjoiMjAyNS0xMS0xOFQwMToxMToyNVoiLCJhY3RpdmUiOnRydWV9.978ce49883e6f235d21e0b4e3c155073f188ce70bf5b7ebd2aa6f00acaab24a9"
+  },
+  {
+    "uid": "afa298ff-036a-49f6-bb83-e3430fd84e60",
+    "machine_id": "93380e84c26bb969644a89b63669156596c9663c88a6d3b5b0aab842ab9078e8",
+    "iat": "2025-11-11T01:26:53Z",
+    "exp": "2025-12-11T01:26:53Z",
+    "active": true,
+    "note": "mig test machine id 2",
+    "key": "eyJ1aWQiOiJhZmEyOThmZi0wMzZhLTQ5ZjYtYmI4My1lMzQzMGZkODRlNjAiLCJtYWNoaW5lX2lkIjoiOTMzODBlODRjMjZiYjk2OTY0NGE4OWI2MzY2OTE1NjU5NmM5NjYzYzg4YTZkM2I1YjBhYWI4NDJhYjkwNzhlOCIsImlhdCI6IjIwMjUtMTEtMTFUMDE6MjY6NTNaIiwiZXhwIjoiMjAyNS0xMi0xMVQwMToyNjo1M1oiLCJhY3RpdmUiOnRydWV9.d74cfb4621ba69922bf6a3111ab0cc0c9ab9c29dacc6457c5ad8060a7726a451"
   }
 ]
