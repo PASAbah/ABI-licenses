@@ -142,5 +142,14 @@
     "active": true,
     "note": "mig test machine id 2",
     "key": "eyJ1aWQiOiJhZmEyOThmZi0wMzZhLTQ5ZjYtYmI4My1lMzQzMGZkODRlNjAiLCJtYWNoaW5lX2lkIjoiOTMzODBlODRjMjZiYjk2OTY0NGE4OWI2MzY2OTE1NjU5NmM5NjYzYzg4YTZkM2I1YjBhYWI4NDJhYjkwNzhlOCIsImlhdCI6IjIwMjUtMTEtMTFUMDE6MjY6NTNaIiwiZXhwIjoiMjAyNS0xMi0xMVQwMToyNjo1M1oiLCJhY3RpdmUiOnRydWV9.d74cfb4621ba69922bf6a3111ab0cc0c9ab9c29dacc6457c5ad8060a7726a451"
+  },
+  {
+    "uid": "5c6793fa-daca-4639-8259-25c7c1be705e",
+    "machine_id": "83441e36ef4b3ebde32302f8498c3cf709ca944c53098363dc39032844e7a92d",
+    "iat": "2025-11-11T01:32:19Z",
+    "exp": "2025-11-18T01:32:19Z",
+    "active": true,
+    "note": "FIRE_umb",
+    "key": "eyJ1aWQiOiI1YzY3OTNmYS1kYWNhLTQ2MzktODI1OS0yNWM3YzFiZTcwNWUiLCJtYWNoaW5lX2lkIjoiODM0NDFlMzZlZjRiM2ViZGUzMjMwMmY4NDk4YzNjZjcwOWNhOTQ0YzUzMDk4MzYzZGMzOTAzMjg0NGU3YTkyZCIsImlhdCI6IjIwMjUtMTEtMTFUMDE6MzI6MTlaIiwiZXhwIjoiMjAyNS0xMS0xOFQwMTozMjoxOVoiLCJhY3RpdmUiOnRydWV9.97c2e553e39b5b0c181e8de53bede6b114eb64f5222a68e1322d4a1a67f817f5"
   }
 ]
