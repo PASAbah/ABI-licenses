@@ -45,15 +45,6 @@
     "key": "eyJ1aWQiOiIyNDYwYWEyMi01OTY3LTRkZTQtODhmZS02YjM1ZjA0ZjM3YzIiLCJtYWNoaW5lX2lkIjoiMmUwMDU3MzhmZGMwMjAwZjg0ZDRmZDRlMjk3MGZjMGU4NjczNGFlMDVlMjBkNTYyNjE3YmI0NWU1NGMzNDQyZSIsImlhdCI6IjIwMjUtMTAtMjZUMjM6MDY6NThaIiwiZXhwIjoiMjAyNS0xMS0yNVQyMzowNjo1OFoiLCJhY3RpdmUiOnRydWV9.e4d6f8ddd833ab54b0392ad257bb3b37d2e8e15fdf154463ae733868f60b33c4"
   },
   {
-    "uid": "14998231-a0c7-4c8b-8c0b-a652c3b2bef8",
-    "machine_id": "23d75cea1df2daed3f6684e006098aa34abbdf135bd03f20db651ae3f0de0deb",
-    "iat": "2025-10-26T23:09:36Z",
-    "exp": "2025-11-25T23:09:36Z",
-    "active": true,
-    "note": "PAsarlaiiiii",
-    "key": "eyJ1aWQiOiIxNDk5ODIzMS1hMGM3LTRjOGItOGMwYi1hNjUyYzNiMmJlZjgiLCJtYWNoaW5lX2lkIjoiMjNkNzVjZWExZGYyZGFlZDNmNjY4NGUwMDYwOThhYTM0YWJiZGYxMzViZDAzZjIwZGI2NTFhZTNmMGRlMGRlYiIsImlhdCI6IjIwMjUtMTAtMjZUMjM6MDk6MzZaIiwiZXhwIjoiMjAyNS0xMS0yNVQyMzowOTozNloiLCJhY3RpdmUiOnRydWV9.b185bd36c5c55a96ef96312866c12e2d0c04f070fec50aa066daa5d8fc8c8c46"
-  },
-  {
     "uid": "bd99cf96-92ca-4942-a035-e00066446b5f",
     "machine_id": "bb32acaa1ac4947eed67b81e361ed97413055c6cc051bc89be11c66403fd8cf2",
     "iat": "2025-10-29T04:59:05Z",
@@ -133,15 +124,6 @@
     "active": true,
     "note": "Dookie (...)",
     "key": "eyJ1aWQiOiJhZDUzNmVkNi00Y2RmLTRhZDUtODA2Ny1hZjAwYTlmNDAyMDAiLCJtYWNoaW5lX2lkIjoiMmJiMmE2ZWRhNjJmZDU5ZTUzMTg3MTlhZTY1OGFhYWZiNDc2NzliZDdiYmMxMGY0NmIwZmU4Y2QzZDY4OGEwZiIsImlhdCI6IjIwMjUtMTEtMDlUMTY6MDY6MTdaIiwiZXhwIjoiMjAyNS0xMS0xNlQxNjowNjoxN1oiLCJhY3RpdmUiOnRydWV9.73836023bec644d42c55bc3e2a8683e1fb83e660dde37c5cfff661c5bed83c1e"
-  },
-  {
-    "uid": "afa298ff-036a-49f6-bb83-e3430fd84e60",
-    "machine_id": "93380e84c26bb969644a89b63669156596c9663c88a6d3b5b0aab842ab9078e8",
-    "iat": "2025-11-11T01:26:53Z",
-    "exp": "2025-12-11T01:26:53Z",
-    "active": true,
-    "note": "mig test machine id 2",
-    "key": "eyJ1aWQiOiJhZmEyOThmZi0wMzZhLTQ5ZjYtYmI4My1lMzQzMGZkODRlNjAiLCJtYWNoaW5lX2lkIjoiOTMzODBlODRjMjZiYjk2OTY0NGE4OWI2MzY2OTE1NjU5NmM5NjYzYzg4YTZkM2I1YjBhYWI4NDJhYjkwNzhlOCIsImlhdCI6IjIwMjUtMTEtMTFUMDE6MjY6NTNaIiwiZXhwIjoiMjAyNS0xMi0xMVQwMToyNjo1M1oiLCJhY3RpdmUiOnRydWV9.d74cfb4621ba69922bf6a3111ab0cc0c9ab9c29dacc6457c5ad8060a7726a451"
   },
   {
     "uid": "5c6793fa-daca-4639-8259-25c7c1be705e",
@@ -250,5 +232,14 @@
     "active": true,
     "note": "lewson2",
     "key": "eyJ1aWQiOiI1Y2JjYjM4Mi0zNjliLTQzZTEtOWIwMi03MmQ2MjMwZjI4MWMiLCJtYWNoaW5lX2lkIjoiZjI2ZjYwZjk1YjFkZjFmZjExNTBiM2JlMmJiNWQwYjc0M2E1NTdmYTZiYmQxODllOWQ1NTczM2I2MzQ0NzIxNiIsImlhdCI6IjIwMjUtMTEtMjJUMjE6NDU6MjNaIiwiZXhwIjoiMjAyNS0xMS0yOVQyMTo0NToyM1oiLCJhY3RpdmUiOnRydWV9.09156874e09ab82c4517d10cee0d304991b098cef90e3050f52351c756780e6d"
+  },
+  {
+    "uid": "7745cdb3-b0d8-485f-8f03-6e5890ea8732",
+    "machine_id": "18fbc4ce70e44993ed7d02f6a110e889bb99a4d333e540b95d3ce73460dc33dc",
+    "iat": "2025-11-24T17:13:55Z",
+    "exp": "2025-12-01T17:13:55Z",
+    "active": true,
+    "note": "Salem_RDSalem",
+    "key": "eyJ1aWQiOiI3NzQ1Y2RiMy1iMGQ4LTQ4NWYtOGYwMy02ZTU4OTBlYTg3MzIiLCJtYWNoaW5lX2lkIjoiMThmYmM0Y2U3MGU0NDk5M2VkN2QwMmY2YTExMGU4ODliYjk5YTRkMzMzZTU0MGI5NWQzY2U3MzQ2MGRjMzNkYyIsImlhdCI6IjIwMjUtMTEtMjRUMTc6MTM6NTVaIiwiZXhwIjoiMjAyNS0xMi0wMVQxNzoxMzo1NVoiLCJhY3RpdmUiOnRydWV9.014414edacb3ccb7ab98096129795c43a31d40d676bae2ff48f16da2bb068490"
   }
 ]
