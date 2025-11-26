@@ -241,5 +241,14 @@
     "active": true,
     "note": "Salem_RDSalem",
     "key": "eyJ1aWQiOiI3NzQ1Y2RiMy1iMGQ4LTQ4NWYtOGYwMy02ZTU4OTBlYTg3MzIiLCJtYWNoaW5lX2lkIjoiMThmYmM0Y2U3MGU0NDk5M2VkN2QwMmY2YTExMGU4ODliYjk5YTRkMzMzZTU0MGI5NWQzY2U3MzQ2MGRjMzNkYyIsImlhdCI6IjIwMjUtMTEtMjRUMTc6MTM6NTVaIiwiZXhwIjoiMjAyNS0xMi0wMVQxNzoxMzo1NVoiLCJhY3RpdmUiOnRydWV9.014414edacb3ccb7ab98096129795c43a31d40d676bae2ff48f16da2bb068490"
+  },
+  {
+    "uid": "7a5bc9df-3681-4f60-98e3-19f9a8efd90d",
+    "machine_id": "4463cbcd8e30549abceb7885e3d53b33dbf8588afda0407a07b07ea8db8db212",
+    "iat": "2025-11-26T14:43:39Z",
+    "exp": "2025-12-02T14:43:39Z",
+    "active": true,
+    "note": "Salem_RDSalem22",
+    "key": "eyJ1aWQiOiI3YTViYzlkZi0zNjgxLTRmNjAtOThlMy0xOWY5YThlZmQ5MGQiLCJtYWNoaW5lX2lkIjoiNDQ2M2NiY2Q4ZTMwNTQ5YWJjZWI3ODg1ZTNkNTNiMzNkYmY4NTg4YWZkYTA0MDdhMDdiMDdlYThkYjhkYjIxMiIsImlhdCI6IjIwMjUtMTEtMjZUMTQ6NDM6MzlaIiwiZXhwIjoiMjAyNS0xMi0wMlQxNDo0MzozOVoiLCJhY3RpdmUiOnRydWV9.f350e27546b1cde4fbccc3d834a6fda6caf820ea738e3b7e0c461a402f5e7186"
   }
 ]
