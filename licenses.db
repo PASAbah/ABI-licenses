@@ -295,5 +295,14 @@
     "active": true,
     "note": "Lewson3",
     "key": "eyJ1aWQiOiJmMzQ2NTExYy0zZjM4LTQ3YmYtOTJiYi1hYjBlNDViMWE4ZDQiLCJtYWNoaW5lX2lkIjoiMzkwMDU2ZjI1ODNlNDRlNmIwYjdiZTRiMmY4YTIxMDdkODBjYWEzMTk2YWRhYWQzZGEwNmE4ZGZjNjg0ZTkzNiIsImlhdCI6IjIwMjUtMTItMDdUMTQ6MTA6MzhaIiwiZXhwIjoiMjAyNS0xMi0xNFQxNDoxMDozOFoiLCJhY3RpdmUiOnRydWV9.92cdb21b1ad476286918e1cdd02b60d39cd8fdf247e1a8abd0d695ab3bcc796e"
+  },
+  {
+    "uid": "dc28a1d8-fabe-488b-b8f1-dfdaa7e592bb",
+    "machine_id": "390056f2583e44e6b0b7be4b2f8a2107d80caa3196adaad3da06a8dfc684e936",
+    "iat": "2025-12-07T14:12:17Z",
+    "exp": "2025-12-14T14:12:17Z",
+    "active": true,
+    "note": "Lewson33",
+    "key": "eyJ1aWQiOiJkYzI4YTFkOC1mYWJlLTQ4OGItYjhmMS1kZmRhYTdlNTkyYmIiLCJtYWNoaW5lX2lkIjoiMzkwMDU2ZjI1ODNlNDRlNmIwYjdiZTRiMmY4YTIxMDdkODBjYWEzMTk2YWRhYWQzZGEwNmE4ZGZjNjg0ZTkzNiIsImlhdCI6IjIwMjUtMTItMDdUMTQ6MTI6MTdaIiwiZXhwIjoiMjAyNS0xMi0xNFQxNDoxMjoxN1oiLCJhY3RpdmUiOnRydWV9.55ebf2957b26775d08e2ca7fe85209a073501317107d7ea78504855edecc4654"
   }
 ]
