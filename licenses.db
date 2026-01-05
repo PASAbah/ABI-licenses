@@ -340,5 +340,14 @@
     "active": true,
     "note": "Bellzy3",
     "key": "eyJ1aWQiOiI2Mzk1NmE3Yi1iMDE2LTQxYzctODQ0NS03NzAwYWRiNGFhY2MiLCJtYWNoaW5lX2lkIjoiN2E2YjJkMDQ2ODA5OTk0MTAyZGM4MjhjNWZhMzY0NjM2YjhmM2MzYjAzNzA3YzMyMGNkOGZjNWUyYmY3NzUyMiIsImlhdCI6IjIwMjUtMTItMjNUMDA6MTA6MDdaIiwiZXhwIjoiMjAyNi0wMS0yMlQwMDoxMDowN1oiLCJhY3RpdmUiOnRydWV9.08ac3f105b61a7108092cf9ed8ba735c4742f4b12412c6412ebe36be6b76528b"
+  },
+  {
+    "uid": "f174550b-a69e-400a-8453-daf5bcbefeca",
+    "machine_id": "390056f2583e44e6b0b7be4b2f8a2107d80caa3196adaad3da06a8dfc684e936",
+    "iat": "2026-01-05T17:40:51Z",
+    "exp": "2026-01-12T17:40:51Z",
+    "active": true,
+    "note": "LewsonGG",
+    "key": "eyJ1aWQiOiJmMTc0NTUwYi1hNjllLTQwMGEtODQ1My1kYWY1YmNiZWZlY2EiLCJtYWNoaW5lX2lkIjoiMzkwMDU2ZjI1ODNlNDRlNmIwYjdiZTRiMmY4YTIxMDdkODBjYWEzMTk2YWRhYWQzZGEwNmE4ZGZjNjg0ZTkzNiIsImlhdCI6IjIwMjYtMDEtMDVUMTc6NDA6NTFaIiwiZXhwIjoiMjAyNi0wMS0xMlQxNzo0MDo1MVoiLCJhY3RpdmUiOnRydWV9.cba3e4c8dd96b35a8b0157efe245184d22df80c173eba0cf0fee364163643e40"
   }
 ]
